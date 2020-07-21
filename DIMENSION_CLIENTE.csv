@@ -1,0 +1,95 @@
+dni;nombre;apellido;distrito;sexo;cant
+24117928;juan;perez;miraflores;masculino;1
+27883872;jose;avila;san juan de miraflores;masculino;1
+29055426;pedro;cordero;barranco;masculino;1
+29765170;manuel;jaramillo;villa maria del triunfo;masculino;1
+30580445;luis;asuncion;san isidro;masculino;1
+31506411;jimena;¤ahui¤a;la molina;masculino;1
+32057104;lady;acu¤a;la molina;femenino;1
+36460004;adriana;perez;la molina;femenino;1
+39278690;juan;avila;la molina;femenino;1
+39617556;jose;cordero;la molina;femenino;1
+42026651;pedro;jaramillo;la molina;femenino;1
+43363858;manuel;asuncion;villa maria del triunfo;femenino;1
+44015456;luis;¤ahui¤a;villa maria del triunfo;masculino;1
+59061526;jimena;acu¤a;villa maria del triunfo;masculino;1
+59301829;lady;perez;villa maria del triunfo;masculino;1
+59475562;adriana;avila;miraflores;femenino;1
+68219992;juan;cordero;miraflores;femenino;1
+68424176;jose;jaramillo;miraflores;femenino;1
+75623365;pedro;asuncion;miraflores;femenino;1
+76849680;manuel;¤ahui¤a;miraflores;masculino;1
+86884442;luis;acu¤a;Barranco;masculino;1
+87871394;jimena;perez;Barranco;masculino;1
+88065810;lady;avila;Barranco;masculino;1
+91900829;adriana;cordero;Barranco;masculino;1
+40909490;juan;jaramillo;Barranco;masculino;1
+42344268;jose;asuncion;Barranco;masculino;1
+7481317;pedro;¤ahui¤a;villa maria del triunfo;masculino;1
+10226979;manuel;acu¤a;villa maria del triunfo;femenino;1
+25791117;luis;perez;miraflores;femenino;1
+8170176;jimena;avila;miraflores;femenino;1
+40926048;lady;cordero;miraflores;femenino;1
+40022472;adriana;jaramillo;miraflores;femenino;1
+7611442;juan;asuncion;miraflores;femenino;1
+10284558;jose;¤ahui¤a;Barranco;masculino;1
+44042866;pedro;acu¤a;Barranco;masculino;1
+9398605;manuel;perez;Barranco;masculino;1
+10454383;luis;avila;Barranco;femenino;1
+41841917;jimena;cordero;Barranco;femenino;1
+41300903;lady;jaramillo;Barranco;femenino;1
+10805518;adriana;asuncion;villa maria del triunfo;femenino;1
+40975017;juan;¤ahui¤a;villa maria del triunfo;masculino;1
+42199746;jose;acu¤a;miraflores;masculino;1
+42624788;pedro;perez;miraflores;masculino;1
+8176678;manuel;avila;miraflores;masculino;1
+40281181;luis;cordero;miraflores;masculino;1
+43276927;jimena;jaramillo;miraflores;masculino;1
+25759489;lady;asuncion;Barranco;masculino;1
+42009159;adriana;¤ahui¤a;Barranco;masculino;1
+43313315;juan;acu¤a;Barranco;femenino;1
+9840889;jose;perez;Barranco;femenino;1
+10635271;pedro;avila;Barranco;femenino;1
+40215198;manuel;cordero;Barranco;femenino;1
+9537473;luis;jaramillo;villa maria del triunfo;femenino;1
+42237280;jimena;asuncion;villa maria del triunfo;femenino;1
+41718104;lady;¤ahui¤a;miraflores;masculino;1
+9991479;adriana;acu¤a;miraflores;masculino;1
+7295225;juan;perez;miraflores;masculino;1
+42664311;jose;avila;miraflores;femenino;1
+40301764;pedro;cordero;miraflores;femenino;1
+8148753;manuel;jaramillo;Barranco;femenino;1
+5644214;luis;asuncion;Barranco;femenino;1
+9630346;jimena;¤ahui¤a;Barranco;masculino;1
+25489227;lady;acu¤a;Barranco;masculino;1
+23690499;adriana;perez;Barranco;masculino;1
+8664751;juan;avila;Barranco;masculino;1
+40170225;jose;cordero;villa maria del triunfo;masculino;1
+6668543;pedro;jaramillo;villa maria del triunfo;masculino;1
+6154572;manuel;asuncion;miraflores;masculino;1
+9993384;luis;¤ahui¤a;miraflores;masculino;1
+9892939;jimena;acu¤a;miraflores;femenino;1
+7496720;lady;perez;miraflores;femenino;1
+42563487;adriana;avila;miraflores;femenino;1
+10226926;juan;cordero;Barranco;femenino;1
+10612128;jose;jaramillo;Barranco;femenino;1
+10811713;pedro;asuncion;Barranco;femenino;1
+7873762;manuel;¤ahui¤a;Barranco;masculino;1
+40687813;luis;acu¤a;Barranco;masculino;1
+43560303;jimena;perez;Barranco;masculino;1
+40376759;lady;avila;villa maria del triunfo;femenino;1
+8089140;adriana;cordero;villa maria del triunfo;femenino;1
+41912456;juan;jaramillo;miraflores;femenino;1
+40324127;jose;asuncion;miraflores;femenino;1
+9405392;pedro;¤ahui¤a;miraflores;masculino;1
+10177146;manuel;acu¤a;miraflores;masculino;1
+4068858;luis;perez;miraflores;masculino;1
+7856753;jimena;avila;Barranco;masculino;1
+42512124;lady;cordero;Barranco;masculino;1
+40407995;adriana;jaramillo;Barranco;masculino;1
+40967360;juan;asuncion;Barranco;masculino;1
+9189466;jose;¤ahui¤a;Barranco;masculino;1
+40866382;pedro;acu¤a;Barranco;femenino;1
+10637969;manuel;perez;villa maria del triunfo;femenino;1
+42261172;luis;avila;villa maria del triunfo;femenino;1
+41098333;jimena;cordero;miraflores;femenino;1
